@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Arun Kumar G
 
-##Python Contributor
+Python Contributor
 I'm passionate about Python, AI, and Embedded Systems, currently contributing to Python's documentation.
 
 ## 🔭 Current Contributions
@@ -12,7 +12,7 @@ I'm passionate about Python, AI, and Embedded Systems, currently contributing to
 - **Frontend**: HTML5, CSS3, JavaScript basics
 - **Full-Stack**: Building complete web applications
 - **Tools**: ngrok for testing, Postman for APIs
-- 
+  
 - ## 🔧 Embedded & IoT Systems
 - **Microcontrollers**: ARM Cortex-M, 8051, AVR,ESP32
 - **Sensor Integration**: Temperature, motion, environmental sensors,Metal,Raindrop
