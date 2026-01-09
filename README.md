@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arun Kumar G
+# 👋 Hi, I'm Arunkumar G
 
 Python Contributor
 I'm passionate about Python, AI, and Embedded Systems, currently contributing to Python's documentation.
